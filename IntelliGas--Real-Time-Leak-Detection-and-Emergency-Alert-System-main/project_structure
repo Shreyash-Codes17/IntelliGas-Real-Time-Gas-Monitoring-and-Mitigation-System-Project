@@ -1,0 +1,13 @@
+Gas Leakage
+↓
+MQ-2 Sensor
+↓
+Arduino Controller
+↓
+┌─────────────┬─────────────┬─────────────┐
+↓ ↓ ↓
+Buzzer Relay Wi-Fi Module
+↓ ↓ ↓
+Alarm Fan/Valve Cloud Server
+↓
+Mobile App
